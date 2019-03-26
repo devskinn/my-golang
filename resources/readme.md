@@ -15,7 +15,7 @@
 
 [Go Home Page](https://golang.org/)  
 [Go Playground](https://play.golang.org/)  
-[How to write Go code](https://golang.org/doc/code.html) 
+[How to write Go code](https://golang.org/doc/code.html)  
 [Go Programming Language Specification](https://golang.org/ref/spec)   
 [Tips for writing clear, idiomatic Go code](https://golang.org/doc/effective_go.html)  
 
