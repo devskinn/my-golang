@@ -1,11 +1,15 @@
-# Go Resources and Useful Links  
+## Go Resources and Useful Links  
 
-## Resources  
+### Forums and User Groups  
+
+[Forum](https://forum.golangbridge.org/)  
+[User Groups](https://github.com/golang/go/wiki/GoUserGroups)  
+
+### Resources  
 
 [Cheat Sheet](../resources/golang_refcard.pdf)  
 
-
-## Useful Links  
+### Useful Links  
 
 **Golang Documentation**  
 
